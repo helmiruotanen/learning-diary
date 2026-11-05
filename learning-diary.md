@@ -39,3 +39,18 @@ I read part 1 from the coursebook.
 ### What I learned
 
 I learned more on ERP systems, about why companies need them and of its history. I also learned about the conflicts of interests. 
+
+## Lecture 4
+
+### Lecture notes
+- Where did SQL came from: It was developed in the 1970s
+- What is SQL? a programming language used to manage, search and modify data in relational databases
+- Why is it still here: 
+
+### What I learned
+I learned about the history and purpose of SQL and how it is used to manage databases.
+
+## Lecture 5
+SQL
+### Before lecture:
+Which question could you answer with SQL, but not by clicking?

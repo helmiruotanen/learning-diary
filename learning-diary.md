@@ -45,15 +45,16 @@ I learned more on ERP systems, about why companies need them and of its history.
 ### Lecture notes
 - Where did SQL came from: It was developed in the 1970s
 - What is SQL? a programming language used to manage, search and modify data in relational databases
-- Why is it still here: 
+- Why is it still here 
 
 ### What I learned
 I learned about the history and purpose of SQL and how it is used to manage databases.
 
 ## Lecture 5
 
-### Before lecture:
-Which question could you answer with SQL, but not by clicking?
+### Before lecture and how I prepared for class:
+-I read the chapters from the book and the tutorial.
+-Which question could you answer with SQL, but not by clicking: for example, which customers have placed more than five orders?
 
 ### Lecture notes
 - A map is never the territory
@@ -61,9 +62,12 @@ Which question could you answer with SQL, but not by clicking?
 - from data to hardware: information, functions, software, hardware
 - Weak links, strong ties
 - Extended and cooperative IS
+  
+### What I learned
+- I learned that information systems can be described in many ways, for example through hierarchy or technical structure
+- The way an organization or system is described also influences how it is developed.
 
-
-
+## Lecture 6
 
 
 

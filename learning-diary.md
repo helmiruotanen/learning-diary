@@ -51,6 +51,33 @@ I learned more on ERP systems, about why companies need them and of its history.
 I learned about the history and purpose of SQL and how it is used to manage databases.
 
 ## Lecture 5
-SQL
+
 ### Before lecture:
 Which question could you answer with SQL, but not by clicking?
+
+### Lecture notes
+- A map is never the territory
+- Three levels -> three kinds of system: strategic, tactical, operational
+- from data to hardware: information, functions, software, hardware
+- Weak links, strong ties
+- Extended and cooperative IS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

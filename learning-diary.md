@@ -69,9 +69,7 @@ I learned about the history and purpose of SQL and how it is used to manage data
 
 ## Lecture 6
 
-
-
-
+I missed class, but I read trough and took notes from the presentation materials on moodle and I read some pages from the course book. 
 
 
 

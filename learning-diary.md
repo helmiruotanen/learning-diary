@@ -83,3 +83,28 @@ I missed class, but I read trough and took notes from the presentation materials
 
 
 
+
+
+
+### quest lecture
+- 1st: CRM: storing, sharing, using, and analyzing large amount of customer data, the people and prosecess are part of it.
+- CRM implementation project: aims to bring CRM system to customers too
+- project stakeholders: customer project team, leaders and end users. our techonolgy vendors, projekt team
+- how working has chaged after AI
+- 2nd: sap-konsultti
+- sap: ohjelmisto jolla voi hallita yrityksen keskeisiä liiketoimintaprosesseja yhdessä paikassa
+- systems, applications and products in data processing
+- voi hallita seuraavia osa-aluita: talous, myynti asiakkaat, hankinnat, varastot, logistiikka yms
+- miksi suosittu: yksi järjestelmä, yhteinen tieto. tietoa ei tarvitse manuaalisesti siirtää järjestelmästä toineen (CRM -> ERP ja toisinpäin), tukee suuria käyttäjä- ja tapahtumamääriä
+- testiautomaatio: manuaaliset testit voidaan suorittaa automaattisesti erilaisilla työkalujen avulla
+
+
+
+
+
+
+
+
+
+
+

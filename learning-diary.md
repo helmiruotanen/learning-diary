@@ -71,22 +71,7 @@ I learned about the history and purpose of SQL and how it is used to manage data
 
 I missed class, but I read trough and took notes from the presentation materials on moodle and I read some pages from the course book. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### quest lecture
+## quest lectures
 - 1st: CRM: storing, sharing, using, and analyzing large amount of customer data, the people and prosecess are part of it.
 - CRM implementation project: aims to bring CRM system to customers too
 - project stakeholders: customer project team, leaders and end users. our techonolgy vendors, projekt team
@@ -97,13 +82,17 @@ I missed class, but I read trough and took notes from the presentation materials
 - voi hallita seuraavia osa-aluita: talous, myynti asiakkaat, hankinnat, varastot, logistiikka yms
 - miksi suosittu: yksi järjestelmä, yhteinen tieto. tietoa ei tarvitse manuaalisesti siirtää järjestelmästä toineen (CRM -> ERP ja toisinpäin), tukee suuria käyttäjä- ja tapahtumamääriä
 - testiautomaatio: manuaaliset testit voidaan suorittaa automaattisesti erilaisilla työkalujen avulla
-
-
-
-
-
-
-
+- - 3rd Loviisa Hurme Jyu:
+- ICT-hankinnat
+- ERP ja CRM julkisiella puolella: Tiera, Apotti, Kelan Eepos-ohjelma
+- Julkisten hankintojen kulku: kolme vaihetta: valmistelu, kilpailutus ja sopimuskausi
+- Innovatiiviset julkiset ICT-hankinnat: voi auttaa julkista sektoria vastaamaan paremmin erilaisiin operationaliisiin, yhteiskunnallisiin ja maailman laajuisiin haasteisiin
+- sidosryhmäkommunikaatio: mikä tahansa ryhmä, joka voi vaikuttaa organisaation tavoitteiden saavuttamiseen. tärkeää tunnistaa sidosryhmien tarpeet ja odotukset, kaksisuuntainen kommunikaatio markkinoiden kanssa (hankintayksiköt oppivat markkinoiden toiminnasta, markkinat oppivat hankintayksiköiden tarpeista)
+- neuvottelumenettely vs kilpailullinen neuvottelumenettely
+- 4th Janne Kallunki, Cloudpermit:
+- community development platform, original focus on building permits, lisencing ...
+- Why cloudpermit: reduces use of paper, real time collaboration, efficient
+- Other benefits: tracking and analutics, achiving, logging
 
 
 
